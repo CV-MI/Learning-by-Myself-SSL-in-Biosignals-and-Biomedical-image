@@ -1,7 +1,7 @@
-#**Learning-by-Myself (LbM): Self-Supervised Learning in Biosignals and Biomedical image**
+# **Learning-by-Myself (LbM): Self-Supervised Learning in Biosignals and Biomedical image**
  
 
-##IEEE International Conference on Image Processing 2024 (ICIP-2024)
+## **IEEE International Conference on Image Processing 2024 (ICIP-2024)**
 
  
 
@@ -21,23 +21,23 @@ The LbM workshop addresses these challenges by fostering interactions among expe
 
  
 
-Workshop Duration:
+### **Workshop Duration:**
 
 Full-Day Workshop (6 hours)
 
  
 
-       Paper Submission:
+       ### **Paper Submission:**
 
          https://cmsworkshops.com/ICIP2024/papers/submission.asp?Type=WS&ID=6
 
  
 
-       Workshop Organizers:
+       ### **Workshop Organizers:**
 
  
 
-Prof. Leontios Hadjileontiadis
+**Prof. Leontios Hadjileontiadis**
 
 Professor and Chair, Dept. of Biomedical Engineering & Biotechnology, Khalifa University, Abu Dhabi, PO Box 127788, UAE (leontios.hadjileontiadis@ku.ac.ae)
 
@@ -47,7 +47,7 @@ Prof. Hadjileontiadis received his Advanced Diploma degree in electrical enginee
 
  
 
-Prof. Thanos Stouraitis
+**Prof. Thanos Stouraitis**
 
 Professor, Dept. of Computer and Communication Engineering, Khalifa University, Abu Dhabi, PO Box 127788, UAE (thanos.stouraitis@ku.ac.ae)
 
@@ -59,7 +59,7 @@ He has served as general chair of many IEEE conferences, including the Internati
 
  
 
-Prof. Panos Liatsis
+**Prof. Panos Liatsis**
 
 Professor, Dept. of Computer Sciences, Khalifa University, Abu Dhabi, PO Box 127788, UAE (panos.liatsis@ku.ac.ae)
 
@@ -71,7 +71,7 @@ He is actively involved in the organization of various international workshops a
 
  
 
-Prof. Naoufel Werghi
+**Prof. Naoufel Werghi**
 
 Dept. of Computer Sciences, Khalifa University, Abu Dhabi, PO Box 127788, UAE (naoufel.werghi@ku.ac.ae)
 
@@ -83,7 +83,7 @@ He has been a member of the organizing committee in many conferences, including 
 
  
 
-Prof. Marius George Linguraru
+**Prof. Marius George Linguraru**
 
 Sheikh Zayed Institute for Pediatric Surgical Innovation at Children's National Hospital, Washington, D.C.; Dept. of Biomedical Engineering, George Washington University, School of Medicine and Health Sciences, Washington, D.C (MLingura@childrensnational.org)
 
