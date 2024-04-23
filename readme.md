@@ -1,4 +1,4 @@
-#**Learning-by-Myself (LbM): Self-Supervised Learning in Biosignals and Biomedical image
+**Learning-by-Myself (LbM): Self-Supervised Learning in Biosignals and Biomedical image
 **
  
 
