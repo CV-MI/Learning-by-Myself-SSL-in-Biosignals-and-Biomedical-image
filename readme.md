@@ -27,13 +27,13 @@ Full-Day Workshop (6 hours)
 
  
 
-       ### **Paper Submission:**
+### **Paper Submission:**
 
          https://cmsworkshops.com/ICIP2024/papers/submission.asp?Type=WS&ID=6
 
  
 
-       ### **Workshop Organizers:**
+### **Workshop Organizers:**
 
  
 
